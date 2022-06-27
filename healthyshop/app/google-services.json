@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "362832359158",
+    "firebase_url": "https://healtyshop-e0649-default-rtdb.firebaseio.com",
+    "project_id": "healtyshop-e0649",
+    "storage_bucket": "healtyshop-e0649.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:362832359158:android:245e364770fe7bb2c386d7",
+        "android_client_info": {
+          "package_name": "com.example.shopeasy"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "362832359158-87envc6tl0phif6lp6fgdftqvdv5puvk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAGzivTQxiJKSGpqR2CiexOsJZgb17nN9A"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "362832359158-87envc6tl0phif6lp6fgdftqvdv5puvk.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
